@@ -119,6 +119,9 @@ R-squared (R2): 1.00
 Best Hyperparameters: {'max_depth': 10, 'max_features': 'auto', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
 ```
 
+### Visualize the model's predictions
+
+
 ### Conclusion
 
 By implementing an ensemble model using a Random Forest Regressor with hyperparameter tuning, we can effectively analyze the impact of time-related factors on US home prices nationally. The model's performance metrics help us assess its accuracy and ability to explain variations in home prices.
