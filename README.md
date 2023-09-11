@@ -102,8 +102,8 @@ print(f'Mean Squared Error (MSE): {mse:.2f}')
 print(f'Mean Absolute Error (MAE): {mae:.2f}')
 print(f'R-squared (R2): {r2:.2f}')
 ```
-###
-9. Results and Insights
+### 9. Results and Insights
+
 The model provides insights into how 'Year,' 'Month,' and 'Quarter' influence US home prices over the last 20 years. The metrics MSE, MAE, and R2 gauge the model's accuracy and explanatory power.
 
 ```
