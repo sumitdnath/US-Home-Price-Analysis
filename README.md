@@ -119,7 +119,7 @@ R-squared (R2): 1.00
 Best Hyperparameters: {'max_depth': 10, 'max_features': 'auto', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
 ```
 
-### Visualize the model's predictions
+### 10. Visualizing the model's predictions
 
 ![alt text](https://raw.githubusercontent.com/sumitdnath/US-Home-Price-Analysis/da181e31f76089aaeabb3a414a231920714cf9e0/model_us_home_price_analysis.png)
 
