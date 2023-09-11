@@ -17,6 +17,12 @@ Let's break down the implementation into several steps:
 We start by obtaining the dataset named `CSUSHPISA.csv`. This dataset contains historical home price data along with associated dates.
 
 ```python
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+
 # Load the provided dataset
 data = pd.read_csv('CSUSHPISA.csv')
 ```
