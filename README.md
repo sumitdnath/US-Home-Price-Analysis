@@ -121,6 +121,8 @@ Best Hyperparameters: {'max_depth': 10, 'max_features': 'auto', 'min_samples_lea
 
 ### Visualize the model's predictions
 
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/sumitdnath/US-Home-Price-Analysis/blob/main/model_us_home_price_analysis.png?raw=true))
+
 
 ### Conclusion
 
